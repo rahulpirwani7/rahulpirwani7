@@ -1,19 +1,74 @@
-<h1 align="center">Hi 👋, I'm Rahul Kumapr</h1>
-<h3 align="center">I have passion on Machine learning and Deep Learning</h3>
+<h1 align="center">Hey 👋, I'm Rahul Kumar</h1>
+<h3 align="center">DSA Problem Solver | ML Enthusiast | CS Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul&label=Profile%20views&color=0e75b6&style=flat" alt="rahul" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahul" alt="rahul" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rahulpirwani7&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul&show_icons=true&locale=en&layout=compact" alt="rahul" /></p>
+### 👨‍💻 About Me
+- 🎓 Computer Science Student  
+- 🧠 Solved **400+ DSA problems on LeetCode**
+- 🔗 Strong in **Data Structures & Algorithms**
+- 🤖 Learning **Machine Learning & Deep Learning**
+- 📊 Hands-on with **NumPy & Pandas for data analysis**
+- 🚀 Passionate about building logical & scalable projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul&show_icons=true&locale=en" alt="rahul" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul&" alt="rahul" /></p>
+### 🧠 DSA & Coding Profiles
+- 💻 **LeetCode:** 400+ Problems Solved  
+- 📈 Topics: Arrays, Strings, Recursion, Linked List, Stack, Queue,  
+  Trees, Graphs, DP, Greedy, Hashing
+
+> *Consistency beats talent when talent doesn’t practice.* 💪
+
+---
+
+### 🧰 Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,react,linux,git" />
+</p>
+
+### 📊 Data Science Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulpirwani7&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpirwani7&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulpirwani7&theme=tokyonight" />
+</p>
+
+---
+
+### 📌 Featured Projects
+- 🔗 **DSA Social Network Project** – Graph-based system  
+- 🗄️ **Database System** – Core DB concepts  
+- 🐍 **Snake Game** – Logic-focused low-level project  
+
+---
+
+### 🤝 Connect With Me
+<p align="left">
+  <a href="https://github.com/rahulpirwani7"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+</p>
+
+---
+
+### ✨ Quote
+> *"Discipline and consistency create unstoppable momentum."* 🚀
